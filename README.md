@@ -8,4 +8,4 @@ This is a simple setup used to dockerize your laravel project
 2. Edit defined services in the docker-compose.yml and fill in with the correct database details.
 
 To get the project to run with Docker, use the command:
-$ docker-compose up
+`$ docker-compose up`
